@@ -2,6 +2,7 @@
 <h3 align="center">A german software developer residing in Tokyo, Japan!</h3>
 
 <h3 align="left">Connect with me:</h3>
+👨‍💻 LinkedIn [https://www.linkedin.com/in/mali-kl/](https://www.linkedin.com/in/mali-kl/)
 <p align="left">
 </p>
 
