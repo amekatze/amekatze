@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mali</h1>
 <h3 align="center">A german software developer residing in Tokyo, Japan!</h3>
 
-<h3 align="left">Connect with me:</h3>
-👨‍💻 LinkedIn [https://www.linkedin.com/in/mali-kl/](https://www.linkedin.com/in/mali-kl/)
-<p align="left">
+- 🔭 I’m currently working on [Tokyothrift](https://github.com/tokyothrift)
+
+- 🌱 I’m currently learning **Python, Next.js, Vue.js & Redux**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mali-kl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mali-kl/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
